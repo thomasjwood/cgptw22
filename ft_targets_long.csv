@@ -1,0 +1,109 @@
+fc,panel,topic_w1,topic_long,topic_short,topic_short_2,congeniality,rating,traffic,date_posted,date_fielded,target_of_misinformation,spreader_of_misinformation
+1,panel_1_lucid,"To the best of your knowledge, how accurate is this statement?
+
+""A Black man invented the light bulb, not a white guy named Edison.""","A Black man invented the light bulb, not a white guy named Edison",A black man invented the light bulb,A black man invented the light bulb (Lucid),False claim congenial to Democrats,mostly false,26817,2020-09-04T00:00:00Z,2020-09-25T00:00:00Z,,w1_ft_joe_biden
+1,panel_1_mturk,"To the best of your knowledge, how accurate is this statement?
+
+""A Black man invented the light bulb, not a white guy named Edison.""","A Black man invented the light bulb, not a white guy named Edison",A black man invented the light bulb,A black man invented the light bulb (MTurk),False claim congenial to Democrats,mostly false,26817,2020-09-04T00:00:00Z,2020-09-25T00:00:00Z,,w1_ft_joe_biden
+1,panel_2_mturk,"To the best of your knowledge, how accurate is this statement?
+
+""Joe Biden was wearing a wire during the first presidential debate.""",Joe Biden was wearing a wire during the first presidential debate,Biden wears wire at debate,Biden wears wire at debate,False claim congenial to Republicans,pants on fire,153947,2020-09-30T00:00:00Z,2020-10-08T00:00:00Z,w1_ft_joe_biden,
+1,panel_3_lucid,"To the best of your knowledge, how accurate is this statement?
+
+Donald Trump said, “The doctors said they’ve never seen a body kill the coronavirus like my body. They tested my DNA and it wasn’t DNA. It was USA.”","Donald Trump said, “The doctors said they’ve never seen a body kill the coronavirus like my body They tested my DNA and it wasn’t DNA It was USA”",Donald Trump claimed his DNA was USA,Donald Trump claimed his DNA was USA,False claim congenial to Democrats,pants on fire,168985,2020-10-07T00:00:00Z,2020-10-16T00:00:00Z,,
+1,panel_4_mturk,"To the best of your knowledge, how accurate is this statement?
+
+
+
+Donald Trump said he nominated Amy Coney Barrett to the Supreme Court because she “is much, much better looking than the women we have had.”","Donald Trump said he nominated Amy Coney Barrett to the Supreme Court because she “is much, much better looking than the women we have had”",Trump chose Judge Barrett on basis of looks,Trump chose Judge Barrett on basis of looks,False claim congenial to Democrats,pants on fire,25274,2020-10-13T00:00:00Z,2020-10-24T00:00:00Z,w1_ft_donald_trump,
+1,panel_4_mturk,"To the best of your knowledge, how accurate is this statement?
+
+
+
+Donald Trump said he nominated Amy Coney Barrett to the Supreme Court because she “is much, much better looking than the women we have had.”","Donald Trump said he nominated Amy Coney Barrett to the Supreme Court because she “is much, much better looking than the women we have had”",Trump chose Judge Barrett on basis of looks,Trump chose Judge Barrett on basis of looks,False claim congenial to Democrats,pants on fire,25274,2020-10-13T00:00:00Z,2020-10-24T00:00:00Z,w1_ft_amy_coney_barrett,
+1,panel_5_lucid,"To the best of your knowledge, how accurate is this statement?
+
+""Kamala Harris tried to put pro-lifers in jail who exposed Planned Parenthood selling baby parts.""",Kamala Harris tried to put pro-lifers in jail who exposed Planned Parenthood selling baby parts,Kamala Harris imprisoned prolife activists,Kamala Harris imprisoned prolife activists,False claim congenial to Republicans,FALSE,40674,2020-10-13T00:00:00Z,2020-10-29T00:00:00Z,w1_ft_kamala_harris,
+1,panel_6_mturk,"To the best of your knowledge, how accurate is this statement?
+
+
+
+By law, the winner of the Presidential election must be declared on Election Night (November 3).","By law, the winner of the Presidential election must be declared on Election Night (November 3)",Presidential winner must be announced election night,Presidential winner must be announced election night,False claim congenial to Republicans,pants on fire,69522,2020-10-28T00:00:00Z,2020-11-02T00:00:00Z,,w1_ft_donald_trump
+1,panel_7_lucid,"To the best of your knowledge, how accurate is this statement?
+
+""Wisconsin has more votes than people who are registered to vote.""",Wisconsin has more votes than people who are registered to vote,Wisconsin has more votes than registered voters,Wisconsin has more votes than registered voters,False claim congenial to Republicans,pants on fire,392222,2020-11-04T00:00:00Z,2020-11-12T00:00:00Z,,
+2,panel_1_lucid,"To the best of your knowledge, how accurate is this statement?
+
+""Most of the wildfires on the West Coast are all being started by Antifa.""",Most of the wildfires on the West Coast are all being started by Antifa,Antifa start West Coast wildfires,Antifa start West Coast wildfires (Lucid),False claim congenial to Republicans,FALSE,35131,2020-09-10T00:00:00Z,2020-09-25T00:00:00Z,w1_ft_antifa,
+2,panel_1_mturk,"To the best of your knowledge, how accurate is this statement?
+
+""Most of the wildfires on the West Coast are all being started by Antifa.""",Most of the wildfires on the West Coast are all being started by Antifa,Antifa start West Coast wildfires,Antifa start West Coast wildfires (MTurk),False claim congenial to Republicans,FALSE,35131,2020-09-10T00:00:00Z,2020-09-25T00:00:00Z,w1_ft_antifa,
+2,panel_2_mturk,"To the best of your knowledge, how accurate is this statement?
+
+""When President Donald Trump walked across Lafayette Square to a church, he held the Bible upside down.""","When President Donald Trump walked across Lafayette Square to a church, he held the Bible upside down",Trump holds Bible upside down,Trump holds Bible upside down,False claim congenial to Democrats,pants on fire,17913,2020-09-18T00:00:00Z,2020-10-08T00:00:00Z,w1_ft_donald_trump,w1_ft_joe_biden
+2,panel_3_lucid,"To the best of your knowledge, how accurate is this statement?
+
+
+
+""Because of his failure to nominate candidates, President Barack Obama left Trump 128 vacant judgeships to fill.""","Because of his failure to nominate candidates, President Barack Obama left Trump 128 vacant judgeships to fill",Obama failed to nominate US judges,Obama failed to nominate US judges,False claim congenial to Republicans,mostly false,47103,2020-10-02T00:00:00Z,2020-10-16T00:00:00Z,w1_ft_joe_biden,w1_ft_donald_trump
+2,panel_3_lucid,"To the best of your knowledge, how accurate is this statement?
+
+
+
+""Because of his failure to nominate candidates, President Barack Obama left Trump 128 vacant judgeships to fill.""","Because of his failure to nominate candidates, President Barack Obama left Trump 128 vacant judgeships to fill",Obama failed to nominate US judges,Obama failed to nominate US judges,False claim congenial to Republicans,mostly false,47103,2020-10-02T00:00:00Z,2020-10-16T00:00:00Z,w1_ft_barack_obama,
+2,panel_4_mturk,"To the best of your knowledge, how accurate is this statement?
+
+
+The World Health Organization (WHO) says your child’s presence in school counts as ""informed consent"" for vaccination - parental presence not required.",The World Health Organization (WHO) says your child’s presence in school counts as informed consent for vaccination - parental presence not required,WHO: children to be vaccinated without parents' consent,WHO: children to be vaccinated without parents' consent,False claim congenial to Republicans,FALSE,1285,2020-10-19T00:00:00Z,2020-10-24T00:00:00Z,w1_ft_the_world_health_organization_(who),
+2,panel_5_lucid,"To the best of your knowledge, how accurate is this statement?
+
+
+
+Joe Biden and Barack Obama directly participated in a plot to have Seal Team 6 murdered.",Joe Biden and Barack Obama directly participated in a plot to have Seal Team 6 murdered,Biden and Obama plotted to have Seal Team 6 murdered,Biden and Obama plotted to have Seal Team 6 murdered,False claim congenial to Republicans,pants on fire,52169,2020-10-14T00:00:00Z,2020-10-29T00:00:00Z,w1_ft_joe_biden,w1_ft_donald_trump
+2,panel_5_lucid,"To the best of your knowledge, how accurate is this statement?
+
+
+
+Joe Biden and Barack Obama directly participated in a plot to have Seal Team 6 murdered.",Joe Biden and Barack Obama directly participated in a plot to have Seal Team 6 murdered,Biden and Obama plotted to have Seal Team 6 murdered,Biden and Obama plotted to have Seal Team 6 murdered,False claim congenial to Republicans,pants on fire,52169,2020-10-14T00:00:00Z,2020-10-29T00:00:00Z,w1_ft_barack_obama,
+2,panel_6_mturk,"To the best of your knowledge, how accurate is this statement?
+
+
+The daughter of Sen. Coons (D-DE), along with 7 other underaged girls are featured on Hunter Biden's laptop.","The daughter of Sen Coons (D-DE), along with 7 other underaged girls are featured on Hunter Biden's laptop",Sen Coon's daughter's photo on Hunter Biden's laptop,Sen Coon's daughter's photo on Hunter Biden's laptop,False claim congenial to Republicans,FALSE,49991,2020-10-26T00:00:00Z,2020-11-02T00:00:00Z,w1_ft_joe_biden,
+2,panel_6_mturk,"To the best of your knowledge, how accurate is this statement?
+
+
+The daughter of Sen. Coons (D-DE), along with 7 other underaged girls are featured on Hunter Biden's laptop.","The daughter of Sen Coons (D-DE), along with 7 other underaged girls are featured on Hunter Biden's laptop",Sen Coon's daughter's photo on Hunter Biden's laptop,Sen Coon's daughter's photo on Hunter Biden's laptop,False claim congenial to Republicans,FALSE,49991,2020-10-26T00:00:00Z,2020-11-02T00:00:00Z,w1_ft_hunter_biden,
+2,panel_6_mturk,"To the best of your knowledge, how accurate is this statement?
+
+
+The daughter of Sen. Coons (D-DE), along with 7 other underaged girls are featured on Hunter Biden's laptop.","The daughter of Sen Coons (D-DE), along with 7 other underaged girls are featured on Hunter Biden's laptop",Sen Coon's daughter's photo on Hunter Biden's laptop,Sen Coon's daughter's photo on Hunter Biden's laptop,False claim congenial to Republicans,FALSE,49991,2020-10-26T00:00:00Z,2020-11-02T00:00:00Z,w1_ft_chris_coons,
+2,panel_7_lucid,"To the best of your knowledge, how accurate is this statement?
+
+Voters in Maricopa County, Arizona, were forced to vote using Sharpie pens that aren’t read by voting machines","Voters in Maricopa County, Arizona, were forced to vote using Sharpie pens that aren’t read by voting machines",GOP voters' pens invisible to voting machines,GOP voters' pens invisible to voting machines,False claim congenial to Republicans,FALSE,190623,2020-11-04T00:00:00Z,2020-11-12T00:00:00Z,,
+3,panel_1_lucid,"To the best of your knowledge, how accurate is this statement?
+
+""COVID-19 SARS-CoV-2 virus, actually is not from nature. It is a man-made virus created in the lab.""","COVID-19 SARS-CoV-2 virus, actually is not from nature It is a man-made virus created in the lab",SARS-CoV-2 man made virus created in the lab,SARS-CoV-2 man made virus created in the lab (Lucid),False claim congenial to Republicans,pants on fire,93465,2020-09-16T00:00:00Z,2020-09-25T00:00:00Z,w1_ft_scientists,
+3,panel_1_mturk,"To the best of your knowledge, how accurate is this statement?
+
+""COVID-19 SARS-CoV-2 virus, actually is not from nature. It is a man-made virus created in the lab.""","COVID-19 SARS-CoV-2 virus, actually is not from nature It is a man-made virus created in the lab",SARS-CoV-2 man made virus created in the lab,SARS-CoV-2 man made virus created in the lab (MTurk),False claim congenial to Republicans,pants on fire,93465,2020-09-16T00:00:00Z,2020-09-25T00:00:00Z,w1_ft_scientists,
+3,panel_2_mturk,"To the best of your knowledge, how accurate is this statement?
+
+""If the president had done his job from the beginning, all the people who died from COVID would still be alive.""","If the president had done his job from the beginning, all the people who died from COVID would still be alive",Trump responsible for all Covid deaths,Trump responsible for all Covid deaths,False claim congenial to Democrats,FALSE,37345,2020-09-18T00:00:00Z,2020-10-08T00:00:00Z,w1_ft_donald_trump,w1_ft_joe_biden
+3,panel_3_lucid,"To the best of your knowledge, how accurate is this statement?
+
+""Judge Amy Coney Barrett, Donald Trump's nominee to the Supreme Court, has a history of making homophobic and racist statements.""","Judge Amy Coney Barrett, Donald Trump's nominee to the Supreme Court, has a history of making homophobic and racist statements",Judge Barrett made homophobic and racist statements,Judge Barrett made homophobic and racist statements,False claim congenial to Democrats,FALSE,36851,2020-09-25T00:00:00Z,2020-10-16T00:00:00Z,w1_ft_amy_coney_barrett,
+3,panel_4_mturk,"To the best of your knowledge, how accurate is this statement?
+
+""Hunter Biden had pictures of him torturing and raping children under age 10 in China on his laptop.""",Hunter Biden had pictures of him torturing and raping children under age 10 in China on his laptop,Hunter Biden's laptop had photos torturing children,Hunter Biden's laptop had photos torturing children,False claim congenial to Republicans,FALSE,541519,2020-10-20T00:00:00Z,2020-10-24T00:00:00Z,w1_ft_hunter_biden,
+3,panel_4_mturk,"To the best of your knowledge, how accurate is this statement?
+
+""Hunter Biden had pictures of him torturing and raping children under age 10 in China on his laptop.""",Hunter Biden had pictures of him torturing and raping children under age 10 in China on his laptop,Hunter Biden's laptop had photos torturing children,Hunter Biden's laptop had photos torturing children,False claim congenial to Republicans,FALSE,541519,2020-10-20T00:00:00Z,2020-10-24T00:00:00Z,w1_ft_joe_biden,
+3,panel_5_lucid,"To the best of your knowledge, how accurate is this statement?
+
+""Joe Biden has never made more than $400,000 in a year.""","Joe Biden has never made more than $400,000 in a year",Joe Biden has never made more than $400k,Joe Biden has never made more than $400k,False claim congenial to Democrats,FALSE,35105,2020-09-10T00:00:00Z,2020-10-29T00:00:00Z,,w1_ft_joe_biden
+3,panel_6_mturk,"To the best of your knowledge, how accurate is this statement?
+
+""In the second presidential debate, after Joe Biden raised concerns that undocumented children may be permanently separated from their parents, Donald Trump replied 'Good.'""","In the second presidential debate, after Joe Biden raised concerns that undocumented children may be permanently separated from their parents, Donald Trump replied 'Good'",Trump said 'Good' to children's separation,Trump said 'Good' to children's separation,False claim congenial to Democrats,FALSE,31266,2020-10-23T00:00:00Z,2020-11-02T00:00:00Z,w1_ft_donald_trump,
+3,panel_7_lucid,"To the best of your knowledge, how accurate is this statement?
+
+""USPS failed to deliver 27% of mail-in ballots in South Florida.""",USPS failed to deliver 27% of mail-in ballots in South Florida,USPS fails to deliver 27% of mail ballots in South FL,USPS fails to deliver 27% of mail ballots in South FL,False claim congenial to Democrats,pants on fire,26549,2020-11-05T00:00:00Z,2020-11-12T00:00:00Z,w1_ft_the_u.s._postal_service,
